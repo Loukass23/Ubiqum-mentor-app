@@ -14,7 +14,7 @@
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
     "google-spreadsheet": "^2.0.8",
-    "googleapis": "^43.0.0",
+    "googleapis": "39",
     "request": "^2.88.0"
   },
   "devDependencies": {
